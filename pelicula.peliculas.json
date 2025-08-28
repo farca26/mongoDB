@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "68af92c877497947235b1dfa"
+  },
+  "nombre": "The Shawshank Redemption",
+  "genero": "Drama"
+},
+{
+  "_id": {
+    "$oid": "68af934577497947235b1dfc"
+  },
+  "nombre": "The Godfather",
+  "genero": "Drama"
+},
+{
+  "_id": {
+    "$oid": "68af93b177497947235b1dfe"
+  },
+  "nombre": "The Dark Knight",
+  "genero": "Acción"
+},
+{
+  "_id": {
+    "$oid": "68af940577497947235b1e00"
+  },
+  "nombre": "The Lord of the Rings: The Return of the King",
+  "genero": "Fantastica"
+},
+{
+  "_id": {
+    "$oid": "68af944977497947235b1e02"
+  },
+  "nombre": "Pulp Fiction",
+  "genero": "Crimen"
+},
+{
+  "_id": {
+    "$oid": "68af94c577497947235b1e04"
+  },
+  "nombre": "Fight Club",
+  "genero": "Suspenso"
+}]
